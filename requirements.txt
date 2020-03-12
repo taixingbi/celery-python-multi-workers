@@ -1,0 +1,7 @@
+django 
+redis
+celery
+django-celery-beat
+pycurl
+django_celery_results
+boto3

@@ -1,0 +1,5 @@
+from .tasks import add
+
+s= add(2, 2)
+
+print(s)
